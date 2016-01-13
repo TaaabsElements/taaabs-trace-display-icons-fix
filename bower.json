@@ -1,0 +1,29 @@
+{
+  "name": "taaabs-trace-display-icons-fix",
+  "version": "1.0.0",
+  "description": "`<taaabs-trace-display-icons-fix>`.",
+  "keywords": [
+    "web-components",
+    "polymer",
+    "taaabs"
+  ],
+  "authors": [
+    "TaaabsTeam"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TaaabsElements/taaabs-trace-display-icons-fix.git"
+  },
+  "main": "taaabs-trace-display-icons-fix.html",
+  "license": "https://github.com/TaaabsElements/taaabs-trace-display-icons-fix/LICENSE",
+  "dependencies": {
+    "polymer": "polymer/polymer#^1.0.0",
+    "paper-spinner": "PolymerElements/paper-spinner",
+    "taaabs-lazy-loading-behavior": "https://github.com/TaaabsElements/taaabs-taaabs-lazy-loading-behavior.git"
+  },
+  "devDependencies": {
+    "iron-component-page": "polymerelements/iron-component-page#^1.0.0",
+    "webcomponentsjs": "webcomponents/webcomponentsjs#^0.7.0"
+  },
+  "ignore": []
+}
